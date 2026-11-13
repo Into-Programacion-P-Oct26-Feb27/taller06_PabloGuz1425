@@ -63,7 +63,7 @@ public class Problema01_1 {
                     }
                 }
             }
-            System.out.printf("%s\n", "La respuesta es %s\n", resultado);
+            System.out.printf("La respuesta es %.2f\n", resultado);
         }
 
     }
